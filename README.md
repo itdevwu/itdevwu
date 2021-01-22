@@ -1,12 +1,12 @@
 ### Hi there 👋, I'm ***itdevwu(Zhenglong WU)***
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=itdevwu&show_icons=true&hide_title=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true" alt="itdevwu's github stats"/>
+
 **Idea Oriented Programming**
 
 **Salary Oriented Programming**
 
 **Love Oriented Programming**
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=itdevwu&show_icons=true&hide_title=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true" alt="itdevwu's github stats"/>
 
 - 📫 How to reach me: 
 

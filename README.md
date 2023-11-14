@@ -1,4 +1,4 @@
-### Hi there 👋, I'm ***itdevwu(Zhenglong WU)***
+### Hi there 👋, I'm ***itdevwu(Astor WU)***
 
 Status: 🏠 Working from home.
 

@@ -1,14 +1,10 @@
-### Hi there 👋, I'm ***itdevwu(Astor WU)***
+### [_itdevwu_ - Zhenglong (Astor) Wu](https://www.itdevwu.com)
 
-Status: 🏠 Working from home.
+[<img height="150" align="right" src="https://github-readme-stats.vercel.app/api?username=itdevwu&show_icons=true&hide_title=true&hide_border=true&theme=ambient_gradient&include_all_commits=true" alt="itdevwu's github stats"/>](https://github.com/itdevwu)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=itdevwu&show_icons=true&hide_title=true&hide_border=true&theme=ambient_gradient&include_all_commits=true" alt="itdevwu's github stats"/>
+**Status**: 🔬 Writing papers.
 
-**Idea Oriented Programming**
-
-**Salary Oriented Programming**
-
-**Love Oriented Programming**
+*Write code with 🫰🏼, write bugs with ❤️.*
 
 - 📫 How to reach me: 
 

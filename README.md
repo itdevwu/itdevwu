@@ -2,7 +2,7 @@
 
 Status: 🏠 Working from home.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=itdevwu&show_icons=true&hide_title=true&hide_border=true&theme=gradient" alt="itdevwu's github stats"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=itdevwu&show_icons=true&hide_title=true&hide_border=true&theme=ambient_gradient&include_all_commits=true" alt="itdevwu's github stats"/>
 
 **Idea Oriented Programming**
 

@@ -1,6 +1,6 @@
 ### [_itdevwu_ - Zhenglong (Astor) Wu](https://www.itdevwu.com)
 
-[<img height="150" align="right" src="https://github-readme-stats.vercel.app/api?username=itdevwu&show_icons=true&hide_title=true&hide_border=true&theme=ambient_gradient&include_all_commits=true" alt="itdevwu's github stats"/>](https://github.com/itdevwu)
+[<img height="150" align="right" src="https://github-readme-stats.vercel.app/api?username=itdevwu&show_icons=true&hide_title=true&hide_border=true&theme=ambient_gradient&include_all_commits=true&rank_icon=github" alt="itdevwu's github stats"/>](https://github.com/itdevwu)
 
 **Status**: 🔬 Writing papers.
 

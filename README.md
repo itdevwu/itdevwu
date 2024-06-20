@@ -10,4 +10,3 @@
 
     * **[GitHub](https://github.com/itdevwu)** | **[LinkedIn](https://www.linkedin.com/in/zhenglong-wu/)** | **[itdevwu's workshop](https://blog.itdevwu.com)**
   
-- 📰 Resume: **[English Resume](https://resume.itdevwu.com/)** | **[中文简历](https://resume.itdevwu.com/Chinese_resume/)**
